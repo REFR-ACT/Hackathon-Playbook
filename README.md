@@ -4,11 +4,17 @@
 
 > We want to make a hackathon because we believe a young person's idea deserves to be heard—and deserves a chance to become something real.
 
-Perhaps the moment we remember most will not be the awards. It may be the first time someone who was afraid to speak says, “I have an idea.” It may be a team arguing, starting over, and finally watching a prototype come to life. It may be the realization that we can do more than use tools: we can decide whom they should serve, and why. **Reflect, to see clearly. Refract, to see differently. Act, to make possibility tangible.** That is the space we hope to create at REFR/ACT.
+We are dissatisfied with a pattern we see in many hackathons: teams begin with “What can we build?” and rush to make a demo in two days, without first asking: **Whose problem is this? Do we understand their real circumstances? Would our solution actually help?** REFR/ACT wants to reverse that order.
+
+Before becoming action, an idea should be “refracted” through different people's perspectives, needs, and real-world constraints. That is why we call it **Refract**: understanding others should be allowed to change what we decide to build. **Reflect, to see clearly. Refract, to see differently. Act, to make possibility tangible.**
+
+As students at a STEM school, we want to extend learning beyond research alone and give high school students room to create from their own ideas. This complements scientific inquiry rather than replacing it: students can turn a question into something tangible, test whether it helps, and improve it. Their ideas deserve to be heard and given a chance to become real.
 
 Moments like these do not happen by accident. Participants need to know where to go. Mentors need to know how to help. Judges need a fair way to listen. And if the network goes down, someone needs to be ready. This playbook is an organizing SOP for a student team. It records the unglamorous work that makes an event possible. If something has no owner, has not been approved, or has not been tested, we will say so rather than present a hope as a fact.
 
 Our first event is planned in two steps: a proposed **PRISMS House Game internal qualifier**, entered individually, to test the format and technology and select or form **two PRISMS representative teams** using a published rubric; then, informed by that pilot, a main hackathon proposed for **Saturday, April 17, 2027**. The main event is proposed for the PRISMS campus, with **30–60 PRISMS students and invited students from nearby middle and high schools**, in teams of **2–5**. The date, campus space, participation by students from other schools, and other arrangements still require school confirmation.
+
+**In collaboration with and sponsored by:** Shigou Intelligent Technology (Shanghai) Co., Ltd.
 
 **How to use this playbook:** Give every task an owner, a deadline, and a status. The dates in the timeline are planning references, not a record of completed work. For an event of a different size, keep the order of decisions and adjust the numbers and lead times.
 
@@ -31,7 +37,7 @@ Our first event is planned in two steps: a proposed **PRISMS House Game internal
 
 ## 1. Decide what you are building
 
-A hackathon is a time-limited team effort to begin with a problem, build a demonstrable prototype, and explain the choices behind it. It does not require every team to ship a complete product, and it is not a typing-speed contest. Design, research, hardware, communication, and validation all have a place.
+A hackathon is a time-limited, collaborative project event. Students form teams, identify a problem, explore possible solutions, and build a prototype: a first version others can try, such as an app, a hardware model, or a data tool. Teams test and revise their work, then demonstrate it and answer judges’ questions. Mentors and optional workshops support learning, but students own the project and its decisions. It is not simply a coding-speed contest or a requirement to launch a finished product. Research, design, engineering, communication, and teamwork all matter.
 
 Before asking for sponsorship or opening registration, put these six answers on one page:
 
