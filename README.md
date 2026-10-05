@@ -72,6 +72,4 @@ In collaboration with and sponsored by **Shigou Intelligent Technology (Shanghai
 
 Use an [Issue](https://github.com/REFR-ACT/Hackathon-Playbook/issues) for a question or suggestion. If you want to help, tell us what you could take responsibility for and roughly how much time you have. Please keep registration details and personal information out of public issues; use the official channel when it is announced.
 
-The chapter-based reading approach was inspired by the [AdventureX Playbook](https://github.com/AdventureX-RGE/Playbook). The writing, event arrangements, and future plans here are written for REFR/ACT; another organizer's experiences are not our history.
-
 *Current status: October 2026. Preparing the first event.*

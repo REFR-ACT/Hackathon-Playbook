@@ -76,6 +76,4 @@ PRISMS 是一所 STEM 学校。科研训练教我们提出问题、找证据、�
 
 你可以通过 [Issue](https://github.com/REFR-ACT/Hackathon-Playbook/issues) 留下一个问题或建议。愿意帮忙的话，说说你能负责哪件事、大概有多少时间，比一段很漂亮的自我介绍更有用。报名和涉及个人信息的沟通，请等正式公布的渠道，不要写进公开 Issue。
 
-这本手册的章节化阅读方式受到 [AdventureX Playbook](https://github.com/AdventureX-RGE/Playbook) 启发。这里的文字、活动安排和未来规划为 REFR/ACT 重新撰写，不把别人的经历当成我们的历史。
-
 *当前状态：2026 年 10 月，首届筹备中。*
