@@ -8,7 +8,7 @@ Perhaps the moment we remember most will not be the awards. It may be the first 
 
 Moments like these do not happen by accident. Participants need to know where to go. Mentors need to know how to help. Judges need a fair way to listen. And if the network goes down, someone needs to be ready. This playbook is an organizing SOP for a student team. It records the unglamorous work that makes an event possible. If something has no owner, has not been approved, or has not been tested, we will say so rather than present a hope as a fact.
 
-Our first event is planned in two steps: an internal PRISMS workshop with approximately **four teams** to test the format and technology, followed—subject to what we learn—by a main hackathon proposed for **Saturday, April 17, 2027**. The main event is proposed for the PRISMS campus, with **30–60 PRISMS students and invited students from nearby middle and high schools**, in teams of **2–5**. The date, campus space, participation by students from other schools, and other arrangements still require school confirmation.
+Our first event is planned in two steps: a proposed **PRISMS House Game internal qualifier**, entered individually, to test the format and technology and select or form **two PRISMS representative teams** using a published rubric; then, informed by that pilot, a main hackathon proposed for **Saturday, April 17, 2027**. The main event is proposed for the PRISMS campus, with **30–60 PRISMS students and invited students from nearby middle and high schools**, in teams of **2–5**. The date, campus space, participation by students from other schools, and other arrangements still require school confirmation.
 
 **How to use this playbook:** Give every task an owner, a deadline, and a status. The dates in the timeline are planning references, not a record of completed work. For an event of a different size, keep the order of decisions and adjust the numbers and lead times.
 
@@ -17,7 +17,7 @@ Our first event is planned in two steps: an internal PRISMS workshop with approx
 1. [Decide what you are building](#1-decide-what-you-are-building)
 2. [Give the work owners](#2-give-the-work-owners)
 3. [Work backward from event day](#3-work-backward-from-event-day)
-4. [Run a small internal pilot](#4-run-a-small-internal-pilot)
+4. [Run the House Game qualifier and pilot](#4-run-the-house-game-qualifier-and-pilot)
 5. [Confirm space, people, and permissions](#5-confirm-space-people-and-permissions)
 6. [Build the budget and partnerships](#6-build-the-budget-and-partnerships)
 7. [Registration and participant communication](#7-registration-and-participant-communication)
@@ -66,8 +66,8 @@ A 20–30 minute weekly meeting is enough if it ends with three things: **who ow
 | When | What should exist by the end of this stage |
 | --- | --- |
 | T−12 to T−10 weeks | One-page event definition; school point of contact; preliminary feasibility of space and outside participation; draft budget |
-| T−10 to T−8 weeks | Internal workshop plan and date; registration/permission path; prospective sponsor and community partner list |
-| T−8 to T−6 weeks | Workshop completed; technical, judging, and process issues recorded; main-event rules revised |
+| T−10 to T−8 weeks | House Game qualifier plan, date, eligibility, published selection rubric, and permission path; prospective sponsor and community partner list |
+| T−8 to T−6 weeks | House Game qualifier completed; two PRISMS representative teams selected or formed under the published rubric; technical, judging, and process issues recorded; main-event rules revised |
 | T−6 to T−4 weeks | Main registration published after approval; mentor/judge outreach confirmed; submission system usable |
 | T−4 to T−2 weeks | Participant list, room layout, food count, supply orders, volunteer shifts |
 | T−14 to T−7 days | Second technical test; safety and visitor process; event guide sent to all participants |
@@ -75,23 +75,23 @@ A 20–30 minute weekly meeting is enough if it ends with three things: **who ow
 | Event day | Run schedule, log incidents, collect submissions, judge, and award |
 | T+1 to T+14 days | Thank-yous, project archive, financial close, anonymous feedback, retrospective, public recap |
 
-Do not skip the pilot to save time. It is not a miniature awards ceremony; it is how we discover what is most likely to fail at the main event.
+Do not skip the House Game pilot to save time. It is a short internal qualifier, not a miniature version of the main hackathon; it also reveals what is most likely to fail at the main event.
 
-## 4. Run a small internal pilot
+## 4. Run the House Game qualifier and pilot
 
-**Format:** PRISMS Internal Workshop, date TBD, approximately four teams of PRISMS students. The number of students depends on team size and is not fixed in advance.
+**Proposed format:** PRISMS House Game internal qualifier, date TBD before April 17. PRISMS students enter individually in a short, bounded challenge. A rubric published before entry would be used to select or form **two PRISMS representative teams** for the main REFR/ACT event. The challenge is also a pilot for the event format and technology, not a full hackathon. Confirm eligibility, selection and team-formation rules, permissions, and school supervision before announcing it.
 
-Treat it as a rehearsal with observation notes:
+Treat the qualifier as a rehearsal with observation notes:
 
-- [ ] Use simpler, more bounded prompts to test the explanations of the **Reflect / Refract / Act** tracks.
+- [ ] Use a short, bounded prompt to test the explanations of the **Reflect / Refract / Act** tracks and whether the published rubric can fairly assess individual entries.
 - [ ] Observe where students use AI: framing the problem, researching, coding, designing, debugging, or changing direction.
-- [ ] Ask each team for a short reflection: What did AI suggest? What was accepted, rejected, or changed? Which important judgment did humans make?
-- [ ] Trial the draft rubric and identify vague language or criteria that fail to distinguish projects.
-- [ ] Measure the actual time needed for check-in, grouping, reminders, submission, demos, and feedback.
+- [ ] Ask each entrant for a short reflection: What did AI suggest? What was accepted, rejected, or changed? Which important judgment did the student make?
+- [ ] Trial the published selection rubric and record how the two representative teams are selected or formed; identify ambiguities for future revisions without changing criteria retroactively.
+- [ ] Measure the actual time needed for check-in, challenge briefing, reminders, submission, demos, and feedback.
 - [ ] Test school computers, available free/approved AI tokens, and local-model options; record what works and what does not.
-- [ ] From workshop use and/or a separate load test, assess whether available infrastructure can reliably support **approximately 24 concurrent AI sessions**. This is a target to test, not a confirmed capability.
+- [ ] From House Game use and/or a separate load test, assess whether available infrastructure can reliably support **approximately 24 concurrent AI sessions**. This is a target to test, not a confirmed capability.
 
-**Hold a retrospective within 48 hours.** For each issue, record what happened, its implication for April 17, and who will fix it by when. Revise the rules, technical plan, and on-site workflow at least once before scaling up.
+**Hold a retrospective within 48 hours of the qualifier.** For each issue, record what happened, its implication for April 17, and who will fix it by when. Revise the rules, technical plan, and on-site workflow at least once before scaling up.
 
 ## 5. Confirm space, people, and permissions
 
