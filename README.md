@@ -122,7 +122,7 @@ List costs before asking for sponsors. Otherwise, it is easy to acquire a collec
 
 The budget needs at least five categories: **awards, food, hardware/consumables, publicity and on-site supplies, and contingency**. For each item, record quantity, estimate, payment method, approver, and whether it is essential or reducible. Quotes and purchases follow school procedures.
 
-REFR/ACT's current fundraising goal is **$10,000+ in combined cash and in-kind support**, including a potential **$3,000+ student prize pool**. These are goals, not money already secured or a PRISMS funding commitment. Final sponsorship and awards require school approval.
+REFR/ACT's current fundraising goal is **$10,000+ in combined cash and in-kind support**, including a potential **$3,000+ student prize pool**. These are goals, not money already secured. Final sponsorship and awards require school approval.
 
 Classify partners by the resources they can offer, not only by company size:
 
