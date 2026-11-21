@@ -10,31 +10,13 @@ This roadmap starts closer to home. It describes steps we want to work toward, n
 
 One thing we would like to preserve is simple: after the event, a participant should still know whom to talk to about their project. Not necessarily about investment or a startup. Perhaps just about fixing the part that never worked, or finding one more person to try it.
 
-## First: prepare the first event
+## First: get this edition ready
 
-**Between now and the main event, prioritize small things we can test.**
+Confirm the venue, dates, capacity, registration and named on-site contacts. Test networking and submission on an ordinary participant device. Put mentoring, judging and emergency contacts on the same run sheet.
 
-Confirm a school contact, date and venue feasibility, outside participation, supervision, and the financial route. Prepare the House Game individual challenge, the public rubric, and the process for selecting or forming two representative teams.
+## Second: run the five days well
 
-Then run it. Have students enter the tools, interpret the prompt, and submit work. Have judges apply the same rules. Record where people get stuck, how long steps take, and which explanations are unclear. “It went well” is not enough information.
-
-The useful outputs are revised rules, a technical test record, and a task list with owners. Approximately 24 concurrent AI sessions remains a test target, not a capability to advertise before checking it.
-
-**Condition for proceeding:** key approvals are resolved, qualifier problems are assigned and addressed, and registration materials can accurately describe the available resources. Otherwise, reduce the scope or adjust the arrangements.
-
-## Second: make April 17 a day worth returning to
-
-The main event is proposed for **April 17, 2027**, with **30–60 participants in teams of 2–5**, subject to school confirmation. The first edition does not need to be a community, incubator, technology exhibition, and recruitment event all at once.
-
-We want three things first:
-
-1. A newcomer can find a meaningful contribution, rather than only watching others.
-2. Each team can explain a decision that changed because of feedback or testing.
-3. Each team receives a specific suggestion it could act on afterward.
-
-Participants should not have to promise to continue their projects to make our summary look good. Discovering that an approach is not worth pursuing can also be a useful outcome.
-
-**What this stage leaves:** project descriptions shared with permission, a record of operational problems, anonymous feedback, and rules to improve. Those are more useful than declaring the day a complete success.
+The [event schedule](schedule.md) is Day 1 setup, Day 2 opening and teams, Day 3 building, Day 4 expo, and Day 5 finals. Protect build time before adding workshops, technical desks or optional interviews. Keep recruiting out of judging and check the partner deliverables after the event.
 
 ## Third: give the work somewhere to go afterward
 

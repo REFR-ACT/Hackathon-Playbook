@@ -10,7 +10,7 @@ For someone attending for the first time, the biggest question may not be about 
 
 The registration information should help answer that. What to bring, what support exists, and what requires preparation should not be buried in a message thread. Nobody needs to pretend to know a technology. Saying both “I can take this part” and “I need help here” makes it easier to work together.
 
-House Game is an individual qualifier, not a team competition that requires an existing group of friends. How it selects or forms two representative teams must be explained before entry. The main event uses teams of 2–5 under its published rules; the matching process still needs confirmation.
+You can arrive with teammates or on your own. Day 2 includes time to form teams: start with what you want to try and where you could use help. Team sizes and registration rules will be posted with the [event schedule](schedule.md).
 
 ## You do not need to prove the idea right before you test it
 
@@ -48,10 +48,12 @@ Useful feedback should travel home with the team. “Promising” is kind. “Th
 
 - Make it clear whom to ask for help.
 - Leave room for meals, rest, and equipment trouble. Exhaustion is not evidence of commitment.
-- Follow school permission requirements for photography and project publicity. Declining photography should not prevent ordinary participation.
+- Follow the event’s published consent rules for photography and project publicity. Declining photography should not prevent ordinary participation.
 - Respect project ownership. Sponsorship does not purchase code, ideas, or personal information.
 - Send fairness-related notices to every team, not just friends of the organizers.
 
 None of these makes a spectacular announcement. They matter to whether a first-time participant wants to return.
 
 Next: [Making the day work](operations.md).
+
+The Day 4 expo is separate from recruiting. Interviews are voluntary, and taking one or choosing a company challenge does not affect judging.
