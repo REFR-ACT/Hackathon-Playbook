@@ -4,6 +4,8 @@
 
 **Day 1 is setup. Days 2–5 are in person.** This edition is open to creators regardless of school affiliation, student status, or discipline. Dates, venue, registration and detailed times will be posted here once confirmed. This page is not an open registration form.
 
+Looking for the [PRISMS House Event](prisms-house-event.md)? It is a separate school game competition with its own schedule and submission rules.
+
 | Day | What happens |
 | --- | --- |
 | Day 1 · Setup | Organizers and partners set up, test equipment, the network and the submission flow, and prepare technical desks and demo tables. |

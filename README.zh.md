@@ -12,6 +12,10 @@
 
 [当前排期](docs/zh/schedule.md)从 **DAY 1–DAY 5** 展开。DAY 1 布展，DAY 2 开幕组队，DAY 3 集中开发，DAY 4 提交与作品展，DAY 5 决赛与闭幕。日历日期、场地、报名入口和具体钟点将在确认后发布。
 
+## PRISMS House Event · 校内学院游戏赛
+
+[Jones’s Bizarre Adventure](docs/zh/prisms-house-event.md) 是 PRISMS 校内学院游戏赛。每个学院制作一款可用街机控制器游玩的 Python 游戏。校内赛有独立的规则和截止时间，不计入上述五天黑客松的排期。
+
 ## Reflect / Refract / Act
 
 - **Reflect**：先问这是谁的问题，哪些判断还只是猜测。

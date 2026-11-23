@@ -10,6 +10,10 @@ Our team has organized a school-wide hackathon. For this edition, we are opening
 
 See the [current schedule](docs/en/schedule.md). **Day 1 is setup. Days 2–5 are in person.** Teams form on Day 2 and build on Day 3. Submissions and the expo are on Day 4; finals and closing are on Day 5. Calendar dates, venue, registration and exact times will be posted once confirmed.
 
+## PRISMS House Event
+
+[Jones’s Bizarre Adventure](docs/en/prisms-house-event.md) is a separate school game competition. Each PRISMS house builds one Python game for an arcade controller. The House Event has its own rules and deadlines and is not part of the five-day hackathon schedule.
+
 ## Reflect / Refract / Act
 
 - **Reflect:** Ask whose problem it is and what you are still assuming.
