@@ -64,7 +64,7 @@ We’re not asking everyone to leave in the same direction. We hope you’ll lea
 | --- | --- |
 | Time | Spring 2027 |
 | Area | Princeton area, New Jersey, USA |
-| Format | In-person hackathon |
+| Format | In-person hackathon for campus communities |
 | Scale | About 500 creators expected |
 
 Exact dates, venue and participant registration will be announced in the [event schedule](schedule.md).

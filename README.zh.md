@@ -1,47 +1,41 @@
-# REFR/ACT 2027
+# REFR/ACT 2027 校园黑客松
 
-[English](README.md) / 中文
+[English](README.md) · [启程预告：如果我们不曾相遇](docs/zh/into-a-different-medium.md)
 
-**有些事，只有相遇才会发生。**
+REFR/ACT 是一场面向校园社区的线下黑客松。来自不同学校、不同专业的人可以在这里组队，把一个点子做成别人能试的原型。第一次参加、还没有队伍、平时不写代码，都可以先从[参加者指南](docs/zh/participant-experience.md)看起。本届不只面向一所学校；具体参赛资格随正式报名公告发布。
 
-一个从没接触过硬件的人坐在机械工程师旁边。一个设计师提出的问题，让程序员重新思考自己的代码。他们原本可能不会认识。REFR/ACT 想为这样的相遇留出时间。
+| 活动 | 当前安排 |
+| --- | --- |
+| 时间 | 2027 年春季，具体日期待公布 |
+| 地区 | 美国新泽西州普林斯顿地区，具体场地待公布 |
+| 规模 | 预计 500 名创造者 |
+| 主办与执行 | 识构智能科技（上海）有限公司主办，REFR/ACT 团队执行 |
+| 选手报名 | 暂未开放；开放后在[活动排期](docs/zh/schedule.md)发布入口 |
 
-[《如果我们不曾相遇》· REFR/ACT 启程预告](docs/zh/into-a-different-medium.md)
+## 从这里开始
 
-团队曾组织过一场面向全校的黑客松。这一次，我们把报名对象从校园放到所有创作者。做软件、硬件、游戏或交互的人，可以带着各自的问题在同一个地方做原型。我们把导师答疑、提交测试、展评和现场应急写进[公开执行手册](docs/zh/operations.md)，让参与者和合作方都知道出了问题找谁。
+| 如果你想…… | 看这里 |
+| --- | --- |
+| 第一次参加，不知道怎么准备 | [参加者指南和常见问题](docs/zh/participant-experience.md) |
+| 看每天做什么、什么时候展示 | [活动排期](docs/zh/schedule.md) |
+| 加入筹备组 | [岗位说明 · Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) · [报名 · 飞书](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) |
+| 代表学校、社团联系，或提供资源与赞助 | [企业与社区合作](docs/zh/partnerships.md) · [联系组织者](mailto:contact@refracthack.org) |
+| 查现场分工、提交、评审和备用方案 | [执行手册](docs/zh/operations.md) |
 
-## 本届怎么安排
+## 现场怎么走
 
-**2027 年春季**，在**美国新泽西州普林斯顿地区**举办线下黑客松，预计 **500 名创造者**。主办方为**识构智能科技（上海）有限公司**，执行团队为 **REFR/ACT 团队**。
+DAY 1 是布展，不是参赛签到。DAY 2 开幕组队；DAY 3 集中制作，并留时间给跨队互试；DAY 4 提交与初评。**DAY 5 上午是全员作品展，每支提交作品的队伍都有展位**，之后安排决赛、颁奖和闭幕。闪电面试自愿预约，与评审分开。
 
-按[当前排期](docs/zh/schedule.md)，DAY 1 布展，DAY 2 开幕组队，DAY 3 开发与跨队互试，DAY 4 提交与初评，**DAY 5 上午全员作品展**，随后安排决赛与闭幕。选手报名暂未开放；具体日期、场地和各环节时段将在确认后发布。
+不用等到最后一次展示才给别人看。做出一小段能试的东西，先让隔壁桌的人上手，看看对方从哪里开始，再带回去改。试过发现原来的做法更好，也可以保留。这是我们在完整制作时间之外，特意给赛程留的位置。[读完整叙事](docs/zh/into-a-different-medium.md)。
 
 ## REFR/ACT 2027 筹备组招募
 
-已经有运营手册、品牌素材和赞助提案可以接着做。招募开发与运维、体验与现场运营、赞助与财务、设计、宣发与叙事。体验与现场运营（EXP）需要能到 Princeton 附近线下参与，其他四组可远程，包括中国国内。
+招募开发与运维、体验与现场运营、赞助与财务、设计、宣发与叙事。体验与现场运营（EXP）需要能到 Princeton 附近线下参与，其余四组可远程，包括中国国内。
 
-[岗位说明 · Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) · [报名 · 飞书](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) · [报名 · Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfZapnmaYQuBQIlpFK1bPA7sFjhm8M5EUoJ6XxzeEjStbsOQg/viewform)（需登录 Google）
+[岗位说明 · Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) · [报名 · 飞书](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) · [报名 · Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfZapnmaYQuBQIlpFK1bPA7sFjhm8M5EUoJ6XxzeEjStbsOQg/viewform)（需登录 Google）。这三个链接服务于筹备组招募，不是选手报名。
 
-以上是筹备组招募，不是参赛报名。
+## 其他事项
 
-## PRISMS House Event · 校内学院游戏赛
-
-[Jones’s Bizarre Adventure](docs/zh/prisms-house-event.md) 是 PRISMS 校内学院游戏赛。每个学院制作一款可用街机控制器游玩的 Python 游戏。校内赛有独立的规则和截止时间，不计入上述五天黑客松的排期。
-
-## Reflect / Refract / Act
-
-- **Reflect**：先问这是谁的问题，哪些判断还只是猜测。
-- **Refract**：试试别人提出的做法，或者顺着现场遇到的限制换一种试法。原来的做法更好，也可以保留。
-- **Act**：做一个能被别人试用的版本，记录有效的部分和没解决的问题。
-
-这三件事比先决定用哪种技术更重要。具体奖项和评审标准在赛前公布。
-
-## 从哪里开始
-
-- [参加者指南](docs/zh/participant-experience.md)：第一次来、怎么组队、做什么。
-- [线下排期](docs/zh/schedule.md)：每天来做什么，哪些安排还没公布。
-- [企业与社区合作](docs/zh/partnerships.md)：资源、技术桌、自主命题及赛后回执。
-- [执行手册](docs/zh/operations.md)：分工、准备、评审和应急。
-- [名字与标志](docs/zh/name-and-symbol.md) / [赛后规划](docs/zh/roadmap.md) / [参与完善手册](CONTRIBUTING.zh.md)。
-
-想问岗位、做导师或聊合作，请联系 [contact@refracthack.org](mailto:contact@refracthack.org)。手册勘误可以开 [Issue](https://github.com/REFR-ACT/Hackathon-Playbook/issues)；报名资料、合同和未公开的业务信息请不要贴到公开区。
+- [PRISMS House Event：Jones’s Bizarre Adventure](docs/zh/prisms-house-event.md)是独立的校内学院游戏赛，有自己的赛程和规则，不属于上面的五天安排。
+- [名字与标志](docs/zh/name-and-symbol.md) · [赛后计划](docs/zh/roadmap.md) · [参与完善手册](CONTRIBUTING.zh.md)。
+- 有未解决的参赛、校园联络或赞助问题，请发邮件到 [contact@refracthack.org](mailto:contact@refracthack.org)。GitHub Issues 用于手册勘误，不用来提交申请或个人资料。

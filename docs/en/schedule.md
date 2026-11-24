@@ -2,7 +2,7 @@
 
 [Back to the playbook](../../README.md) / [中文](../zh/schedule.md)
 
-**Day 1 is setup. Days 2–5 are in person.** This edition is open to creators regardless of school affiliation, student status, or discipline. We’re planning for **about 500 creators** in the Princeton area, New Jersey, in **spring 2027**. Participant registration is not open yet. We’ll post the exact dates, venue, participant signup and detailed times here once confirmed. [Organizing team recruitment](../../README.md#join-the-2027-organizing-team) is separate from participant registration.
+**Day 1 is setup. Days 2–5 are in person.** This edition is for campus communities and is not limited to one school. Full eligibility and supervision requirements will be published with registration. We’re planning for **about 500 creators** in the Princeton area, New Jersey, in **spring 2027**. Participant registration is not open yet. We’ll post the exact dates, venue, participant signup and detailed times here once confirmed. [Organizing team recruitment](../../README.md#join-the-2027-organizing-team) is separate from participant registration.
 
 Looking for the [PRISMS House Event](prisms-house-event.md)? It is a separate school game competition with its own schedule and submission rules.
 

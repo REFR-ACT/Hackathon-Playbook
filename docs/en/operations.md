@@ -6,7 +6,7 @@ This is the working plan, not a report on a past event. The [event schedule](sch
 
 ## 1. Event boundaries
 
-Day 1 is setup. Days 2–5 are in person. Participation is open regardless of school affiliation, student status or discipline. Teams choose their own problems and submit a prototype someone can try, with a short account of their decisions. Partner challenges, product trials and interviews are optional.
+Day 1 is setup. Days 2–5 are in person. The event is for campus communities across schools and disciplines; the registration announcement will set formal eligibility. Teams choose their own problems and submit a prototype someone can try, with a short account of their decisions. Partner challenges, product trials and interviews are optional.
 
 Before opening registration, confirm dates, rooms and capacity, team rules, access and safety requirements, registration and cancellation steps, and how judging and awards work.
 
@@ -52,7 +52,7 @@ Write down placements, resources, technical support, product trials and workshop
 
 The registration page must say who can apply, what to submit, how teams form, when an application is confirmed, and where to ask about access, supervision or dietary needs. Collect only what is needed to run the event. Do not give partners the registration list.
 
-Point confirmation messages, the arrival guide and on-site reminders to the same rules and schedule. No participant is required to take a company challenge or use a sponsor's tool.
+The arrival email should cover confirmation status, check-in time and entrance, what to bring, opening hours, food and accessibility arrangements, and how to get help on site. Mark unconfirmed details as pending rather than promising them. Link to the same schedule and rules from confirmations, the participant guide and on-site reminders. No participant is required to take a company challenge or use a sponsor's tool.
 
 ## 8. Equipment and technical checks
 

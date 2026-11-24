@@ -1,63 +1,47 @@
-# If you walk into the room
+# Participant guide
 
-[Home](../../README.md) · [中文](../zh/participant-experience.md)
+[Playbook home](../../README.md) · [中文](../zh/participant-experience.md) · [Event schedule](schedule.md)
 
-*This is the experience we want to work toward, not a set of unannounced registration promises. Eligibility, timing, equipment, and support will follow the published rules.*
+First time at REFR/ACT? You don’t need to come with a team or a finished idea. Start with something that frustrates you at school, a tool you want to try, or a sketch you keep going back to.
 
-## You do not have to arrive impressive
+**Participant registration is not open yet.** REFR/ACT is for campus communities and isn’t limited to a single school. Full eligibility, age and supervision requirements, team sizes, fees and dates will be posted with registration.
 
-For someone attending for the first time, the biggest question may not be about prizes. It may be: “Will there be anything I can actually do?”
+## Before you arrive
 
-The registration information should help answer that. What to bring, what support exists, and what requires preparation should not be buried in a message thread. Nobody needs to pretend to know a technology. Saying both “I can take this part” and “I need help here” makes it easier to work together.
+- **Check your confirmation.** Submitting an application is not the same as getting a spot. Before making travel plans, check your confirmation, check-in window and venue entrance. We’ll post the address in the [event schedule](schedule.md).
+- **Bring a starting point.** A question, a sketch or a skill you want to learn is enough. The published rules will explain what existing code, assets or projects you can use.
+- **Bring the tools you normally work with.** Think laptop, charger and adapters. Ask in advance about bringing or borrowing hardware, dietary needs or access arrangements rather than waiting until check-in.
 
-You can arrive with teammates or on your own. Day 2 includes time to form teams: start with what you want to try and where you could use help. Team sizes and registration rules will be posted with the [event schedule](schedule.md).
+## What happens on site
 
-## You do not need to prove the idea right before you test it
+**Check in and find teammates · Day 2.** Come with teammates or meet people at the opening. Start with two things: what you’d like to try and what you can take on. Writing code is one way to help. So is sketching the flow, making an enclosure, testing a prototype or explaining what broke.
 
-Suppose someone proposes a tool to help students remember things. We would want a mentor to ask: which things, which students, what do they do now, and why is that not enough?
+**Build and try each other’s work · Day 3.** Make one part someone else can try. Turn the screen around and let them start without a walkthrough. Say you’ve built a page for borrowing equipment. The first thing someone asks is, “How do I know the kit has all its parts?” You still have time to decide whether to change the booking flow or try a return checklist instead. Mentors and workshops are there to help; the team gets to decide what to build.
 
-This is an illustrative example, not a past REFR/ACT project. We do not expect formal user research in a day, or treat asking one friend as comprehensive validation. Separating observations, assumptions, and unknowns is already useful progress.
+**Submit and take part in the first round · Day 4.** Follow the submission instructions and give yourself time before the cutoff. Prepare a short problem statement, one flow you can demo, an account of what your team made, and a note on what you tried and what didn’t work. Credit outside materials, tools and any AI you used. If you didn’t use AI, just say so if asked. Check that submission links open, and remove credentials and personal information you don’t have permission to share. The published rules will set the final format, deadline and judging criteria.
 
-If you can talk with potential users, ask for consent and listen. If you cannot, identify the untested needs. Do not gather unnecessary personal information just to make a submission look complete.
+**Open Expo and finals · Day 5.** Every team that submits a project gets a booth at the morning expo. Start with something a visitor can do, then explain why you made it that way. You don’t have to reach the finals to show your work. Finals follow the expo. Lightning interviews are opt-in and run separately; neither interviews nor partner challenges affect judging.
 
-## Try it before demo day
+## Common questions
 
-When your prototype can do one thing, see if someone from another table will try it. Don’t walk them through it first. Notice where they start, what confuses them, and what they do that you didn’t expect. Leave yourself time to make one change before submitting, or to show why you kept it as it was. [Why we leave room for this](into-a-different-medium.md).
+**Can I come if I don’t code or don’t have a project in mind?**
 
-## Building is not only writing code
+You don’t need a project already underway. Design, hardware, testing and presenting all count as work. There’s time to meet teammates and ask mentors for help. Check the registration announcement for formal eligibility.
 
-One person writes the logic. Another makes a confusing interaction understandable. Someone catches a problem with the demo data. Someone explains why a feature should be removed. These are contributions to the project, not extras around it.
+**What if I’m coming alone?**
 
-Roles can change, but everyone should be able to describe a decision they helped make. We do not want one person to do everything while others only stand beside the final presentation.
+Day 2 includes time to meet people and form teams. The organizers can help you make a start, but a team placement isn’t guaranteed. The published rules will say whether solo entries are allowed and how large a team can be.
 
-Mentors should help teams think, rather than replace the idea with their own ready-made answer. “Have you considered this situation?” is often more useful than “Here is what you should build.”
+**Do I have to stay overnight? What about meals, equipment and accessibility?**
 
-## AI can help. Judgment is still your job.
+Opening hours, meals, loans and venue arrangements will be confirmed before the event. If your plans depend on one of these, email us rather than assuming it’s included.
 
-Using AI for ideas, code, debugging, or writing must fit the event rules. The number of calls is not an achievement. Recognizing mistakes and explaining why you accepted or rejected a suggestion matters more.
+**Will my work be published?**
 
-Each team should provide a brief process reflection: where AI helped, where it was unreliable, and which decisions the team made. Teams that did not use AI can say so without adding a token use just to fill the form.
+Giving a demo is not consent to publish your code or personal information. Event notices will explain how photography, publication and permissions work. Sponsorship does not transfer project ownership, and partners do not receive the participant signup list.
 
-Do not put classmates' personal information, unauthorized interview notes, or credentials into a tool. Technical support should work toward a usable common route, rather than making expensive personal accounts the default advantage. Tools and available credits need testing before they are announced.
+**Who should I ask for help?**
 
-## Show the unfinished parts honestly
+At the event, start with the check-in desk or an organizer. The pre-event message will name the on-site contacts and where to find them. For eligibility, fees, travel or other questions, email [contact@refracthack.org](mailto:contact@refracthack.org). Please keep identification, personal contact details and private concerns out of public GitHub issues.
 
-A demo is not a performance of perfection. Explain whose problem you addressed, show what the prototype can do, describe the tests, and distinguish working features from ideas.
-
-If a demo fails, organizers should apply a published rule consistently, not award extra time to whoever argues most loudly. Judges can ask different questions without changing the basis of assessment.
-
-Useful feedback should travel home with the team. “Promising” is kind. “This test does not yet support the conclusion; try comparing these two conditions” gives someone a next step.
-
-## Small things organizers should get right
-
-- Make it clear whom to ask for help.
-- Leave room for meals, rest, and equipment trouble. Exhaustion is not evidence of commitment.
-- Follow the event’s published consent rules for photography and project publicity. Declining photography should not prevent ordinary participation.
-- Respect project ownership. Sponsorship does not purchase code, ideas, or personal information.
-- Send fairness-related notices to every team, not just friends of the organizers.
-
-None of these makes a spectacular announcement. They matter to whether a first-time participant wants to return.
-
-Next: [Making the day work](operations.md).
-
-The Open Expo on the morning of Day 5 is separate from judging. Every team that submits a project gets a booth. You can opt into a lightning interview and start the conversation with your work. Neither interviews nor partner challenges affect judging.
+[Check the schedule](schedule.md) · [Why we leave time for the next table](into-a-different-medium.md)

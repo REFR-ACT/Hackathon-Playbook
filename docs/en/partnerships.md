@@ -4,6 +4,10 @@
 
 Bring a device, a tool, an engineer, or a real problem a team could test. Before the event, we agree on what you can bring, who will be there, and what you get back.
 
+## For schools and campus groups
+
+If you’re reaching out from a school, lab, makerspace or student club, we can talk about reaching other campuses, mentoring, lending equipment or taking part in the Open Expo. You don’t need to choose a sponsorship tier first. Tell us which group you’re with, what you’d like to do and what time or resources you can offer. We’ll agree on the scope before announcing a partnership.
+
 ## Sponsorship
 
 | Partnership | What it includes |
