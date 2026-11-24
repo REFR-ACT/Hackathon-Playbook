@@ -16,7 +16,7 @@ Confirm the venue, dates, capacity, registration and named on-site contacts. Tes
 
 ## Second: run the five days well
 
-The [event schedule](schedule.md) is Day 1 setup, Day 2 opening and teams, Day 3 building, Day 4 expo, and Day 5 finals. Protect build time before adding workshops, technical desks or optional interviews. Keep recruiting out of judging and check the partner deliverables after the event.
+The [event schedule](schedule.md) is Day 1 setup, Day 2 opening and teams, Day 3 building, Day 4 expo, and Day 5 finals. Protect build time and leave room for prototype swaps and revision before adding workshops, technical desks or optional interviews. Keep recruiting out of judging and check the partner deliverables after the event.
 
 ## Third: give the work somewhere to go afterward
 

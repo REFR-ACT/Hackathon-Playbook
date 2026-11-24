@@ -20,6 +20,10 @@ This is an illustrative example, not a past REFR/ACT project. We do not expect f
 
 If you can talk with potential users, ask for consent and listen. If you cannot, identify the untested needs. Do not gather unnecessary personal information just to make a submission look complete.
 
+## Try it before demo day
+
+When your prototype can do one thing, see if someone from another table will try it. Don’t walk them through it first. Notice where they start, what confuses them, and what they do that you didn’t expect. Leave yourself time to make one change before submitting, or to show why you kept it as it was. [Why we leave room for this](into-a-different-medium.md).
+
 ## Building is not only writing code
 
 One person writes the logic. Another makes a confusing interaction understandable. Someone catches a problem with the demo data. Someone explains why a feature should be removed. These are contributions to the project, not extras around it.

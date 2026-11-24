@@ -2,13 +2,23 @@
 
 English / [中文](README.zh.md)
 
-Hand someone at the next table a prototype you have not finished. Before you tell them how it works, watch what they try first. What looks obvious to the person who made it can be invisible to the person using it. We put that meeting early, while there is still time to change the work.
+You’re trying to make a robot turn faster. Someone at the next table has done theater and asks, “Could it pause for half a beat before it turns?” Maybe you try it and go back to the original. But it’s not a question you’d have asked on your own.
+
+We want to leave time for those few steps to the next table. [Read the story behind REFR/ACT](docs/en/into-a-different-medium.md).
 
 Our team has organized a school-wide hackathon. For this edition, we are opening participation to creators beyond a single school. People working in software, hardware, games and interaction design can build together. We publish our [operations playbook](docs/en/operations.md) so participants and partners can see how mentoring, submission checks, judging and contingencies are meant to work.
 
 ## This edition
 
-See the [current schedule](docs/en/schedule.md). **Day 1 is setup. Days 2–5 are in person.** Teams form on Day 2 and build on Day 3. Submissions and the expo are on Day 4; finals and closing are on Day 5. Calendar dates, venue, registration and exact times will be posted once confirmed.
+We’re planning for **300–500 people** near **Princeton, New Jersey**, tentatively in **late March 2027**. See the [current schedule](docs/en/schedule.md). **Day 1 is setup. Days 2–5 are in person.** Teams form on Day 2 and build on Day 3. Submissions and the expo are on Day 4; finals and closing are on Day 5. Calendar dates, venue, registration and exact times will be posted once confirmed.
+
+## Join the 2027 organizing team
+
+We have a playbook, brand materials and a sponsorship proposal to build on. We’re recruiting for Development, Experience & Operations, Sponsorship & Finance, Design, and Communications & Storytelling. Experience & Operations needs people who can be on site near Princeton. The other four teams can work remotely, including from China.
+
+[Role descriptions · Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) · [Apply · Feishu](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) · [Apply · Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfZapnmaYQuBQIlpFK1bPA7sFjhm8M5EUoJ6XxzeEjStbsOQg/viewform) (Google sign-in required)
+
+These are organizing team applications, not participant registration.
 
 ## PRISMS House Event
 
@@ -17,7 +27,7 @@ See the [current schedule](docs/en/schedule.md). **Day 1 is setup. Days 2–5 ar
 ## Reflect / Refract / Act
 
 - **Reflect:** Ask whose problem it is and what you are still assuming.
-- **Refract:** Let another person's feedback or a real constraint change your approach.
+- **Refract:** Try something suggested by another person’s experience or a real constraint. Keep the original approach if it works better.
 - **Act:** Build something someone can try, then show what worked and what did not.
 
 Those habits matter more than any particular technology. Award categories and judging rules will be published before the event.
@@ -30,4 +40,4 @@ Those habits matter more than any particular technology. Award categories and ju
 - [Operations playbook](docs/en/operations.md): responsibilities, on-site checks, judging and backup plans.
 - [Name and mark](docs/en/name-and-symbol.md) / [What comes after](docs/en/roadmap.md) / [Contribute](CONTRIBUTING.md).
 
-To help organize, advise or partner, start a [GitHub issue](https://github.com/REFR-ACT/Hackathon-Playbook/issues). Please keep registration information, contracts and confidential business details out of the public issue tracker.
+For organizing, mentoring or partnership questions, email [contact@refracthack.org](mailto:contact@refracthack.org). Use [GitHub Issues](https://github.com/REFR-ACT/Hackathon-Playbook/issues) for public corrections to the playbook, not for applications, contracts or private details.

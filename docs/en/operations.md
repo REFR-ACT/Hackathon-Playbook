@@ -73,7 +73,7 @@ Teams may build software, hardware, games or interactive prototypes. Ask for a b
 | --- | --- |
 | Day 1 · Setup | Test equipment, network, primary and backup submission; verify technical desks and demo tables. |
 | Day 2 · Opening | Check in, point to the rules and help desk, then help creators find teammates. |
-| Day 3 · Build | Run optional workshops and technical desks without taking away the main build block. |
+| Day 3 · Build | Protect the main build block. Plan informal prototype swaps with the Experience & Operations team and leave time afterward to revise before submission. Keep workshops and technical desks optional. |
 | Day 4 · Expo and judging | Remind teams of the cutoff, run table demos and first-round judging, and keep the opt-in interviews separate. |
 | Day 5 · Finals | Run demos and questions in the published order; record awards, equipment returns and closing actions. |
 

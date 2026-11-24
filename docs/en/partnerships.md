@@ -29,4 +29,4 @@ Companies may fund their own challenge prize separately. Agree on the amount, ju
 
 Pricing, deliverables and the reporting date are recorded in the written agreement. We do not promise reach, uptake or hiring results.
 
-Start with a [GitHub issue](https://github.com/REFR-ACT/Hackathon-Playbook/issues) describing the resource or problem you would like to bring. Discuss pricing, contracts, personal information and confidential business data privately.
+We welcome partners in China, the U.S., and elsewhere. Email [contact@refracthack.org](mailto:contact@refracthack.org) with the resource or problem you’d like to bring. We can start with a video call. Keep pricing, contracts, personal information and confidential business data out of public GitHub issues.

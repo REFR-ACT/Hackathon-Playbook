@@ -4,11 +4,9 @@
 
 ## A name, and an order of working
 
-To refract is to change direction at a boundary between media. What interests us is not simply that light looks beautiful. It is that an encounter can change where something goes.
+Light can change direction as it crosses from one medium into another. That possibility is what we borrowed for [Into a Different Medium](into-a-different-medium.md).
 
-Someone arrives with “I want to make this.” They meet a potential user and a teammate, then encounter limits on time, money, equipment, and their own understanding. If they leave able only to repeat their original sentence, something about that encounter has been wasted.
-
-An idea should pass through those conversations before becoming action. That does not mean averaging everybody's opinions. It means noticing what changed our judgment and what still needs testing.
+When someone tries your prototype, you might see a route you didn’t know was there. It’s worth trying; it isn’t an instruction to change course. Keep what works, and be able to say what you noticed.
 
 We write **REFR/ACT** so that ACT stands out. The slash can be read as a short pause: look first, then make something. It is a pause, not a place to stay forever.
 

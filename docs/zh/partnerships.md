@@ -29,4 +29,4 @@
 
 报价、回执日期与具体权益按书面合作确认单执行。我们不在公开页面承诺触达、产品用量或招聘结果。
 
-请从 [GitHub Issues](https://github.com/REFR-ACT/Hackathon-Playbook/issues) 发起联系，简单说明想带来的资源或问题。报价细节、合同、个人资料和未公开业务数据请私下沟通。
+我们欢迎来自中国、美国及其他地区的合作伙伴。可以先发邮件到 [contact@refracthack.org](mailto:contact@refracthack.org)，说说想带来的资源或问题，第一次可以约线上聊。报价、合同、个人资料和未公开业务数据请不要贴到公开 Issue。
