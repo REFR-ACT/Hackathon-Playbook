@@ -4,7 +4,7 @@
 
 ## A name, and an order of working
 
-Light can change direction as it crosses from one medium into another. That possibility is what we borrowed for [Into a Different Medium](into-a-different-medium.md).
+Light can change direction as it crosses from one medium into another. That possibility is what we borrowed for *Into a Different Medium*. See how it plays out in our preview, [If Our Worlds Had Never Met](into-a-different-medium.md).
 
 When someone tries your prototype, you might see a route you didn’t know was there. It’s worth trying; it isn’t an instruction to change course. Keep what works, and be able to say what you noticed.
 

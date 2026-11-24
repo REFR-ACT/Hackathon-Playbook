@@ -1,16 +1,20 @@
-# REFR/ACT: Into a Different Medium
+# REFR/ACT 2027
 
 English / [中文](README.zh.md)
 
-You’re trying to make a robot turn faster. Someone at the next table has done theater and asks, “Could it pause for half a beat before it turns?” Maybe you try it and go back to the original. But it’s not a question you’d have asked on your own.
+**Some things would never happen if our worlds never met.**
 
-We want to leave time for those few steps to the next table. [Read the story behind REFR/ACT](docs/en/into-a-different-medium.md).
+Someone who’s never touched hardware sits next to a mechanical engineer. A designer asks a question that makes a programmer rethink their code. They might never have met. REFR/ACT makes time for an encounter like that.
+
+[If Our Worlds Had Never Met · The REFR/ACT preview](docs/en/into-a-different-medium.md)
 
 Our team has organized a school-wide hackathon. For this edition, we are opening participation to creators beyond a single school. People working in software, hardware, games and interaction design can build together. We publish our [operations playbook](docs/en/operations.md) so participants and partners can see how mentoring, submission checks, judging and contingencies are meant to work.
 
 ## This edition
 
-We’re planning for **300–500 people** near **Princeton, New Jersey**, tentatively in **late March 2027**. See the [current schedule](docs/en/schedule.md). **Day 1 is setup. Days 2–5 are in person.** Teams form on Day 2 and build on Day 3. Submissions and the expo are on Day 4; finals and closing are on Day 5. Calendar dates, venue, registration and exact times will be posted once confirmed.
+We’re planning an in-person hackathon for **about 500 creators** in the **Princeton area, New Jersey**, in **spring 2027**. The host is **Shigou Intelligent Technology (Shanghai) Co., Ltd.**; the **REFR/ACT team** is the organizing committee.
+
+See the [current schedule](docs/en/schedule.md): Day 1 is setup, teams form on Day 2, and Day 3 is for building and trying each other’s work. Submissions and first-round judging are planned for Day 4. **The Open Expo is on the morning of Day 5**, with finals and closing to follow. Participant registration is not open yet. Exact dates, venue and session times will be announced once confirmed.
 
 ## Join the 2027 organizing team
 

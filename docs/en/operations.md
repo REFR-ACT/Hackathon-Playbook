@@ -61,11 +61,13 @@ Point confirmation messages, the arrival guide and on-site reminders to the same
 - For partner tools, offer a runnable example and check eligibility, regions, expiry, usage limits and data requirements.
 - Record the device, steps, result, failure and person responsible for fixing it.
 
+Run opt-in lightning interviews in a separate area at the announced appointment times, apart from expo and judging activities.
+
 ## 9. Submission and judging
 
 Teams may build software, hardware, games or interactive prototypes. Ask for a brief project description, a core flow to demo, the major choices the team made, and test notes that include what failed. A working demo is not a production release.
 
-**Day 4 is the expo and first round. Day 5 is the final.** Assign tables and give teams an equal opportunity to demo. Publish submission rules, judging criteria, conflict handling and tie and late-submission procedures ahead of time. Use the same rubric across judges. Finalists demo and answer questions separately. Sponsor involvement and interviews do not affect scores.
+**Day 4 is for submissions and the first round. Day 5 starts with the Open Expo, followed by finals.** Give every team an equal chance to demo during the first round. The expo is separate from judging, and every team that submits a project gets a booth. Publish submission rules, judging criteria, conflict handling and tie and late-submission procedures ahead of time. Use the same rubric across judges. Finalists demo and answer questions separately. Sponsor involvement and interviews do not affect scores.
 
 ## 10. On-site run of show
 
@@ -74,8 +76,8 @@ Teams may build software, hardware, games or interactive prototypes. Ask for a b
 | Day 1 · Setup | Test equipment, network, primary and backup submission; verify technical desks and demo tables. |
 | Day 2 · Opening | Check in, point to the rules and help desk, then help creators find teammates. |
 | Day 3 · Build | Protect the main build block. Plan informal prototype swaps with the Experience & Operations team and leave time afterward to revise before submission. Keep workshops and technical desks optional. |
-| Day 4 · Expo and judging | Remind teams of the cutoff, run table demos and first-round judging, and keep the opt-in interviews separate. |
-| Day 5 · Finals | Run demos and questions in the published order; record awards, equipment returns and closing actions. |
+| Day 4 · Submissions and first round | Remind teams of the cutoff, run the first round under the published rules and prepare the finalist list. |
+| Day 5 · Open Expo and finals | For the morning Open Expo, set up a booth for every team that submits a project. Run finals and Q&A in the published order, then handle awards, equipment returns and closing. |
 
 The live run sheet names a time, action, owner, backup and status. Any change that affects teams goes through a single announcement.
 

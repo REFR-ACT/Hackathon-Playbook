@@ -11,9 +11,9 @@ Bring a device, a tool, an engineer, or a real problem a team could test. Before
 | T4 · Resource | Equipment, credits, materials or technical support. Recognition on the event page and in the recap, with a delivery report. |
 | T3 · Support | The baseline recognition plus a company introduction and link on the event page. |
 | T2 · Event | Additional recruiting or venue visibility, expo conversations, and a technical desk or product trial. Trials are voluntary; feedback is shared in aggregate when agreed. |
-| T1 · Co-create | T2 benefits, featured branding, stage acknowledgment, a joint workshop or topic, and a Day 4 lightning interview session. |
+| T1 · Co-create | T2 benefits, featured branding, stage acknowledgment, a joint workshop or topic, and the option to run lightning interviews, with times to be announced. |
 
-Interviews take place in a separate area. The partner shares role details ahead of time, and creators can book a 10-minute slot if they want to. They exchange contact details only with mutual consent. Partners do not receive the registration list, interviews do not affect judging, and no hiring outcome is promised.
+Interviews take place in a separate area. The partner shares role details ahead of time, and creators can opt into a 10-minute slot and start the conversation with the part of a project they made. They exchange contact details only with mutual consent. Partners do not receive the registration list, interviews do not affect judging, and no hiring outcome is promised.
 
 ## A challenge without a sponsorship tier
 

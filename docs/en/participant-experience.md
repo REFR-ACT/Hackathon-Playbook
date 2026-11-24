@@ -60,4 +60,4 @@ None of these makes a spectacular announcement. They matter to whether a first-t
 
 Next: [Making the day work](operations.md).
 
-The Day 4 expo is separate from recruiting. Interviews are voluntary, and taking one or choosing a company challenge does not affect judging.
+The Open Expo on the morning of Day 5 is separate from judging. Every team that submits a project gets a booth. You can opt into a lightning interview and start the conversation with your work. Neither interviews nor partner challenges affect judging.
