@@ -6,7 +6,7 @@
 
 We could quickly write an ambitious plan: more schools, more participants, a larger venue. None of those phrases tells us what to do next week.
 
-This roadmap starts closer to home. It describes steps we want to work toward, not a calendar backed by resources we already have. An item without an owner is not underway. An arrangement needing school approval stays marked pending until that approval exists.
+This roadmap starts closer to home. It describes steps we want to work toward, not a calendar backed by resources we already have. An item without an owner is not underway. Items requiring a venue or institution’s approval stay marked pending until confirmed.
 
 One thing we would like to preserve is simple: after the event, a participant should still know whom to talk to about their project. Not necessarily about investment or a startup. Perhaps just about fixing the part that never worked, or finding one more person to try it.
 
@@ -16,11 +16,11 @@ Confirm the venue, dates, capacity, registration and named on-site contacts. Tes
 
 ## Second: run the five days well
 
-The [event schedule](schedule.md) is Day 1 setup, Day 2 opening and teams, Day 3 building, Day 4 submissions and first-round judging, and the morning Open Expo and finals on Day 5. Protect build time and leave room for prototype swaps and revision before adding workshops, technical desks or optional interviews. Keep recruiting out of judging and check the partner deliverables after the event.
+The [event schedule](schedule.md) starts with Day 0 setup. Day 1 opens the event and gets teams started; Days 2–4 are for building. Day 5 brings project demos, lightning interviews, and the closing ceremony. Protect build time before adding workshops and technical desks. Demo and judging are in the morning; interviews are in the afternoon.
 
 ## Third: give the work somewhere to go afterward
 
-**Within two weeks, aim to complete the practical closeout and review.** Return equipment, reconcile finances, send thanks, and address outstanding issues. Then write a review that includes what failed. Teams choose whether their projects are public; a showcase is not permission to publish everyone's code.
+**Finish delivery, then reflect on what worked.** The agreed partner reports go out within 10 business days of closing. Return equipment, reconcile finances, send thanks, and address outstanding issues. Then write a review that includes what failed. Teams choose whether their projects are public; a showcase is not permission to publish everyone's code.
 
 **Around a month afterward, try an optional project check-in.** This is a proposal: assign an owner and ask whether participants want it before scheduling it. A short session is enough. People can share what changed, where they are stuck, and what they want to try next.
 
@@ -51,7 +51,7 @@ Leave behind:
 - Reasons for major decisions and alternatives that were considered.
 - Account-access and equipment handover arrangements, without passwords or secrets in the repository.
 
-The next edition need not look identical. It can be smaller, use a different prompt, or revise the tracks. If it still starts with people and takes evidence seriously, changing the format does not mean losing Refract.
+The next edition need not look identical. It can be smaller, use a different format, or revise the track directions. If it still starts with people and takes evidence seriously, changing the format does not mean losing Refract.
 
 ## How we would recognize progress
 
@@ -71,4 +71,4 @@ You need not wait for the whole community plan. Use an [Issue](https://github.co
 
 The future we want starts with somebody taking that part.
 
-*Updated October 2026. These are plans and exploratory directions, not commitments of places, funding, or continuing support.*
+*Updated November 2026.*

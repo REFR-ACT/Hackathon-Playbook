@@ -1,32 +1,43 @@
-# REFR/ACT 2027 Campus Hackathon
+# REFR/ACT: Into a Different Medium
 
-English · [中文](README.zh.md) · [Event preview: If Our Worlds Had Never Met](docs/en/into-a-different-medium.md)
+English · [中文](README.zh.md) · [Read the full story: If Our Worlds Had Never Met](docs/en/into-a-different-medium.md)
 
-REFR/ACT is an in-person hackathon for campus communities. People from different schools and disciplines get together to make something another person can try. If this is your first hackathon, you don’t have a team, or coding isn’t what you do, start with the [participant guide](docs/en/participant-experience.md). The event isn’t limited to one school; full eligibility details will come with registration.
+We often ask people what they have made. We spend less time asking why they wanted to make it.
 
-| Event details | Current plan |
+Light can change direction when it enters a different medium. Ideas can change when they run into someone who sees things differently. We want to make room for that meeting, while there is still time to change the work.
+
+> Some things would never happen if our worlds never met.
+
+REFR/ACT is led by high school students. Our previous hackathon was open to the whole school and brought together **120 participants**. For this edition, applications are open to creators from any background. School affiliation is not part of the review.
+
+## About this playbook
+
+This is REFR/ACT’s public planning document. It explains how we intend to run applications, team formation, development, the expo, judging, and follow-up, and where companies and communities fit in. The program spans AI, software, hardware, engineering, games, and interaction design. It is not an application form or a substitute for the rules published before the event.
+
+**REFR/ACT 2027** is planned for **late March 2027** in the **Princeton area, New Jersey, USA**. **Day 0** is for setup, followed by five in-person event days, **Days 1–5**. The planning target is **500 people competing in person**, not a count of applications, acceptances, or confirmed attendance. It excludes staff, judges, and visitors. The [event website](https://refracthack.org) will announce the exact dates, venue, and application link once confirmed.
+
+| Item | Current plan |
 | --- | --- |
-| When | Spring 2027; exact dates to be announced |
-| Where | Princeton area, New Jersey, USA; venue to be announced |
-| Scale | About 500 creators expected |
-| Host and organizing committee | Hosted by Shigou Intelligent Technology (Shanghai) Co., Ltd.; organized by the REFR/ACT team |
-| Participant registration | Not open yet. The [event schedule](docs/en/schedule.md) will link to signup when it opens. |
+| Participant applications | Not open yet. The [event schedule](docs/en/schedule.md) will link to the application once it opens. |
+| Organizers | The REFR/ACT team runs the event. Shigou Intelligent Technology (Shanghai) Co., Ltd. coordinates in China. |
 
-## Start here
+## Reflect / Refract / Act
 
-| I’d like to… | Go to |
+- **Reflect:** Find out whose problem it is and what you are still assuming.
+- **Refract:** Let someone try the unfinished work and see what their feedback changes.
+- **Act:** Build a version you can demonstrate, then explain what worked and what did not.
+
+## Find what you need
+
+| What you want to know | Where to look |
 | --- | --- |
-| Attend my first hackathon or figure out what to bring | [Participant guide and FAQ](docs/en/participant-experience.md) |
-| See the programme and find out when teams present | [Event schedule](docs/en/schedule.md) |
-| Join the organizing team | [Role descriptions on Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) · [Apply on Feishu](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) |
-| Get my school or club involved, or support the event | [Partnership guide](docs/en/partnerships.md) · [Contact the organizers](mailto:contact@refracthack.org) |
-| Find the run of show, submission plan and contingencies | [Operations playbook](docs/en/operations.md) |
-
-## How the event works
-
-Day 1 is setup; participant check-in starts on Day 2. Teams form at the opening, then build and try each other’s work on Day 3. Projects are submitted and judged in the first round on Day 4. **On the morning of Day 5, every team that submits a project gets a booth at the Open Expo.** Finals, awards and closing follow. Lightning interviews are optional and separate from judging.
-
-Don’t wait for the final demo to let someone try your work. Make one part that runs, pass it to someone at the next table and see where they start. Then take it back while there’s time to change it. If the original works better, keep it. [Read the story behind REFR/ACT](docs/en/into-a-different-medium.md).
+| Applications, review, and finding a team | [Participant guide](docs/en/participant-experience.md) |
+| The proposed run of show from setup to closing | [Event schedule](docs/en/schedule.md) |
+| Who sets the track rules and how projects enter multiple tracks | [Open tracks](docs/en/tracks.md) |
+| Company and community participation and follow-up | [Partnerships](docs/en/partnerships.md) |
+| Responsibilities, rehearsals, judging, and contingencies | [Operations playbook](docs/en/operations.md) |
+| Join the organizing team | [2027 crew recruitment](#join-the-2027-organizing-team) |
+| The brand and what comes next | [Name and mark](docs/en/name-and-symbol.md) · [Roadmap](docs/en/roadmap.md) |
 
 ## Join the 2027 organizing team
 
@@ -36,6 +47,7 @@ We’re recruiting for Development, Experience & Operations, Sponsorship & Finan
 
 ## Also in this repository
 
-- [PRISMS House Event: Jones’s Bizarre Adventure](docs/en/prisms-house-event.md) is a separate school competition with its own rules and deadlines.
-- [Name and mark](docs/en/name-and-symbol.md) · [After the event](docs/en/roadmap.md) · [Contribute to the playbook](CONTRIBUTING.md).
-- Questions about attendance, campus outreach or sponsorship? Email [contact@refracthack.org](mailto:contact@refracthack.org). Use GitHub Issues to correct the playbook, not to submit applications or share personal information.
+- [PRISMS House Event: Jones’s Bizarre Adventure](docs/en/prisms-house-event.md) is a separate school competition, not part of this event’s schedule.
+- [Contribute to the playbook](CONTRIBUTING.md) · For participant questions and campus outreach: [contact@refracthack.org](mailto:contact@refracthack.org).
+
+Use [GitHub Issues](https://github.com/REFR-ACT/Hackathon-Playbook/issues) for feedback on this playbook. For partnerships, email [sponsor@refracthack.org](mailto:sponsor@refracthack.org). Please keep applications, contracts, and confidential business information out of the public repository.

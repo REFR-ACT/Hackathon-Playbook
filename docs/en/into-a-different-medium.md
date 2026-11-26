@@ -62,10 +62,10 @@ We’re not asking everyone to leave in the same direction. We hope you’ll lea
 
 | Item | Plan |
 | --- | --- |
-| Time | Spring 2027 |
+| Time | Planned for late March 2027 |
 | Area | Princeton area, New Jersey, USA |
-| Format | In-person hackathon for campus communities |
-| Scale | About 500 creators expected |
+| Format | In-person hackathon open to creators of any background; five event days plus a setup day |
+| Scale | Planning target: 500 people competing in person |
 
 Exact dates, venue and participant registration will be announced in the [event schedule](schedule.md).
 
@@ -85,7 +85,7 @@ The expo isn’t just for the winners. There’s room for the experiments and th
 
 **Ten minutes, starting with something you made.**
 
-Creators can choose to book a short interview with an industry partner, bring a project and talk about the part they worked on, what went wrong, and how they figured out what to do next.
+On Day 5 in the afternoon, creators can choose to book a short interview with an industry partner, bring a project and talk about the part they worked on, what went wrong, and how they figured out what to do next.
 
 A conversation about what you might do next doesn’t have to start with a résumé.
 
@@ -111,7 +111,7 @@ We’ll share projects, conversations and creators’ stories through the event 
 | --- | --- |
 | **JOIN · Participants** | Not open yet · [Check the event schedule](schedule.md) |
 | **CREW · Organizing team** | [Apply on Feishu](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) · [Read the roles on Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) |
-| **PARTNER · Sponsorship and collaboration** | [Partnership guide](partnerships.md) · [contact@refracthack.org](mailto:contact@refracthack.org) |
+| **PARTNER · Sponsorship and collaboration** | [Partnership guide](partnerships.md) · [sponsor@refracthack.org](mailto:sponsor@refracthack.org) |
 
 ---
 

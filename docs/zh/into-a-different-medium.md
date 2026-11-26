@@ -74,10 +74,10 @@ REFR/ACT 团队
 
 | 项目 | 安排 |
 | --- | --- |
-| Time · 时间 | 2027 年春季 |
+| Time · 时间 | 计划于 2027 年 3 月下旬举办 |
 | Venue · 地点 | 美国 · 新泽西州 · 普林斯顿地区 |
-| Format · 形式 | 面向校园社区的线下黑客松 |
-| Scale · 规模 | 预计 500 名创造者 |
+| Format · 形式 | 面向所有创作者报名的线下黑客松；五天活动，另设一天布展 |
+| Scale · 规模 | 筹备目标：500 名线下参赛者 |
 
 具体日期、场地及选手报名开放时间将在[活动排期](schedule.md)公布。
 
@@ -97,7 +97,7 @@ DAY 5 上午，我们将举办全员作品展。**每支提交作品的队伍都
 
 **十分钟，从你亲手做的那一步聊起。**
 
-创作者可以自愿预约闪电面试，带着自己的作品，与行业伙伴聊聊自己负责的部分、曾经遇到的困难，以及后来是如何找到解决方法的。
+DAY 5 下午，创作者可以自愿预约闪电面试，带着自己的作品，与行业伙伴聊聊自己负责的部分、曾经遇到的困难，以及后来是如何找到解决方法的。
 
 我们希望一段关于未来的对话，可以不从履历开始。
 
@@ -127,7 +127,7 @@ DAY 5 上午，我们将举办全员作品展。**每支提交作品的队伍都
 | --- | --- |
 | **JOIN · 选手报名** | 暂未开放 · [查看最新排期](schedule.md) |
 | **CREW · 幕后共创** | [飞书筹备组报名表](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) · [公开岗位说明 · Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) |
-| **PARTNER · 商务合作** | [企业与社区合作](partnerships.md) · [contact@refracthack.org](mailto:contact@refracthack.org) |
+| **PARTNER · 商务合作** | [企业与社区合作](partnerships.md) · [sponsor@refracthack.org](mailto:sponsor@refracthack.org) |
 
 ---
 

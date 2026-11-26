@@ -1,36 +1,32 @@
 # Work with REFR/ACT
 
-[Back to the playbook](../../README.md) / [中文](../zh/partnerships.md)
+[Playbook home](../../README.md) / [中文](../zh/partnerships.md)
 
-Bring a device, a tool, an engineer, or a real problem a team could test. Before the event, we agree on what you can bring, who will be there, and what you get back.
+Partners can bring equipment, developer credits, or an engineer who can answer questions on site. Community groups can help recruit participants, host a conversation, or connect us with mentors. Before we plan the on-site and communications work, we put the scope, responsibilities, and deliverables in writing.
 
-## For schools and campus groups
+## Schools and community groups
 
-If you’re reaching out from a school, lab, makerspace or student club, we can talk about reaching other campuses, mentoring, lending equipment or taking part in the Open Expo. You don’t need to choose a sponsorship tier first. Tell us which group you’re with, what you’d like to do and what time or resources you can offer. We’ll agree on the scope before announcing a partnership.
+Schools, labs, makerspaces, and student groups can help with recruiting, mentoring, equipment loans, or project expo conversations without taking a sponsorship tier. Tell us who you represent, how you’d like to be involved, and what time or resources you can contribute.
 
-## Sponsorship
+## Partnership options
 
-| Partnership | What it includes |
+| Partnership | What it adds |
 | --- | --- |
-| T4 · Resource | Equipment, credits, materials or technical support. Recognition on the event page and in the recap, with a delivery report. |
-| T3 · Support | The baseline recognition plus a company introduction and link on the event page. |
-| T2 · Event | Additional recruiting or venue visibility, expo conversations, and a technical desk or product trial. Trials are voluntary; feedback is shared in aggregate when agreed. |
-| T1 · Co-create | T2 benefits, featured branding, stage acknowledgment, a joint workshop or topic, and the option to run lightning interviews, with times to be announced. |
+| **T4 · Resource** | Contribute equipment, credits, supplies, technical support, or equivalent in-kind resources. Receive recognition on the website, partner board, and event recap, plus a report on those placements. This tier does not include a booth. |
+| **T3 · Support** | Adds an introduction and link during the recruitment period and a public booth at the Day 1 Partner Showcase, before the opening ceremony. |
+| **T2 · Event** | Adds dedicated social posts about the partner and its products, a separate promotional placement, a technical desk or opt-in product trial, time to meet teams at the Day 5 Project Expo, and one [public track](tracks.md). REFR/ACT provides a Feishu group and a Discord group for participants to access resources and get technical support. |
+| **T1 · Co-create** | Includes T2 and adds featured branding on the main event artwork, acknowledgment by the hosts at the opening and closing ceremonies, a feature in REFR/ACT’s own channels, a joint workshop or session, and Day 5 afternoon lightning interviews. |
 
-Interviews take place in a separate area. The partner shares role details ahead of time, and creators can opt into a 10-minute slot and start the conversation with the part of a project they made. They exchange contact details only with mutual consent. Partners do not receive the registration list, interviews do not affect judging, and no hiring outcome is promised.
+**Category-exclusive naming rights** are separate from T1–T4. Exclusivity applies only to the agreed category, such as “REFR/ACT Exclusive Naming Partner for Smart Hardware,” not to the event as a whole. The title can appear on the event website, relevant main artwork, on-site materials, and campaign content. Speaking slots for partners at the opening and closing ceremonies are reserved for category-exclusive naming partners. The agreement may also cover additional multi-platform promotion and introductions to adult participants who opt in and authorize sharing.
 
-## A challenge without a sponsorship tier
+## Run a public track on its own
 
-A company can bring a challenge on its own. Bring a contact who knows the problem. Together we write a one-page brief with a question the teams can test, sample data or test conditions, the expected demo and any resource limits. The organizers publish the brief, arrange support and collect the test notes. Teams do not have to choose a partner challenge.
+A company can run a public track without taking a sponsorship tier. It sets one open direction, publishes its own submission and judging rules, and funds its award separately with cash or equivalent products. Teams decide what to make and may enter the same project in multiple tracks. Company-appointed judges select the track award independently of the main competition. See the [public track guide](tracks.md).
 
-Companies may fund their own challenge prize separately. Agree on the amount, judging criteria and award process before the event. The prize is separate from the sponsorship tiers and does not change the main competition scores.
+## What partners receive after the event
 
-## After the event
+We deliver the agreed report within **10 business days** of closing. Brand placements come with links, screenshots, and verifiable metrics. Social metrics are reported by platform; on-site check-ins are reported separately, not added to online impressions. Reports on tools and trials, track entries, and talent introductions reflect what actually took place. Project materials and personal information are shared only within the scope of permission given.
 
-- **Recognition:** agreed placements, links, screenshots and available metrics. Page visits, platform impressions and on-site check-ins are reported separately.
-- **Resource use:** equipment checkout and return, issued credits and available redemption totals. Partners who ran a trial receive anonymized feedback as agreed.
-- **Challenge output:** prototype instructions or a demo, test notes and known limits. Photos and project materials are shared only with permission; future development is a separate discussion.
+Lightning interviews are opt-in and last 10 minutes per slot. Start with what the participant built and what they were responsible for. When both sides want to continue and the participant consents, the organizers can refer them to the company for an initial interview. Interviews are separate from judging. Partners do not receive the registration list.
 
-Pricing, deliverables and the reporting date are recorded in the written agreement. We do not promise reach, uptake or hiring results.
-
-We welcome partners in China, the U.S., and elsewhere. Email [contact@refracthack.org](mailto:contact@refracthack.org) with the resource or problem you’d like to bring. We can start with a video call. Keep pricing, contracts, personal information and confidential business data out of public GitHub issues.
+See the [sponsorship proposal](https://refracthack.feishu.cn/wiki/VGXMwh6BOiylBckQXJhcOtMVnhg) and the [partner track guide](https://refracthack.feishu.cn/wiki/FWL4wl9YQigzftknwlachnBdnLb). For partnership inquiries, email [sponsor@refracthack.org](mailto:sponsor@refracthack.org).

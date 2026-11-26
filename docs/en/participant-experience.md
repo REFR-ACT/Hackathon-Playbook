@@ -1,47 +1,67 @@
-# Participant guide
+# If you walk into the room
 
-[Playbook home](../../README.md) · [中文](../zh/participant-experience.md) · [Event schedule](schedule.md)
+[Home](../../README.md) · [中文](../zh/participant-experience.md)
 
-First time at REFR/ACT? You don’t need to come with a team or a finished idea. Start with something that frustrates you at school, a tool you want to try, or a sketch you keep going back to.
+*A guide to applying, finding teammates, and putting your work in front of someone who can try it.*
 
-**Participant registration is not open yet.** REFR/ACT is for campus communities and isn’t limited to a single school. Full eligibility, age and supervision requirements, team sizes, fees and dates will be posted with registration.
+## You don’t need a portfolio to apply
 
-## Before you arrive
+**Participant applications are not open yet.** The [event schedule](schedule.md) will link to the application once it opens. Anyone can apply, regardless of school, field, or student status. The application window opens and closes before the event. Tell us why you want to come and what you want to try. If you’ve made something you’d like us to see, include it. It’s fine if you haven’t. The organizers send a confirmation and arrival instructions to applicants who are accepted.
 
-- **Check your confirmation.** Submitting an application is not the same as getting a spot. Before making travel plans, check your confirmation, check-in window and venue entrance. We’ll post the address in the [event schedule](schedule.md).
-- **Bring a starting point.** A question, a sketch or a skill you want to learn is enough. The published rules will explain what existing code, assets or projects you can use.
-- **Bring the tools you normally work with.** Think laptop, charger and adapters. Ask in advance about bringing or borrowing hardware, dietary needs or access arrangements rather than waiting until check-in.
+You don’t have to find teammates before you apply. There’s time to meet people on Day 1. Start with what you want to try and where you could use help. The application instructions will cover team rules and what to bring; see the [event schedule](schedule.md) for on-site timing.
 
-## What happens on site
+## You do not need to prove the idea right before you test it
 
-**Check in and find teammates · Day 2.** Come with teammates or meet people at the opening. Start with two things: what you’d like to try and what you can take on. Writing code is one way to help. So is sketching the flow, making an enclosure, testing a prototype or explaining what broke.
+Suppose someone proposes a tool to help students remember things. We would want a mentor to ask: which things, which students, what do they do now, and why is that not enough?
 
-**Build and try each other’s work · Day 3.** Make one part someone else can try. Turn the screen around and let them start without a walkthrough. Say you’ve built a page for borrowing equipment. The first thing someone asks is, “How do I know the kit has all its parts?” You still have time to decide whether to change the booking flow or try a return checklist instead. Mentors and workshops are there to help; the team gets to decide what to build.
+This is an illustrative example, not a past REFR/ACT project. We do not expect formal user research in a day, or treat asking one friend as comprehensive validation. Separating observations, assumptions, and unknowns is already useful progress.
 
-**Submit and take part in the first round · Day 4.** Follow the submission instructions and give yourself time before the cutoff. Prepare a short problem statement, one flow you can demo, an account of what your team made, and a note on what you tried and what didn’t work. Credit outside materials, tools and any AI you used. If you didn’t use AI, just say so if asked. Check that submission links open, and remove credentials and personal information you don’t have permission to share. The published rules will set the final format, deadline and judging criteria.
+If you can talk with potential users, ask for consent and listen. If you cannot, identify the untested needs. Do not gather unnecessary personal information just to make a submission look complete.
 
-**Open Expo and finals · Day 5.** Every team that submits a project gets a booth at the morning expo. Start with something a visitor can do, then explain why you made it that way. You don’t have to reach the finals to show your work. Finals follow the expo. Lightning interviews are opt-in and run separately; neither interviews nor partner challenges affect judging.
+## Building is not only writing code
 
-## Common questions
+One person writes the logic. Another makes a confusing interaction understandable. Someone catches a problem with the demo data. Someone explains why a feature should be removed. These are contributions to the project, not extras around it.
 
-**Can I come if I don’t code or don’t have a project in mind?**
+Roles can change, but everyone should be able to describe a decision they helped make. We do not want one person to do everything while others only stand beside the final presentation.
 
-You don’t need a project already underway. Design, hardware, testing and presenting all count as work. There’s time to meet teammates and ask mentors for help. Check the registration announcement for formal eligibility.
+Mentors should help teams think, rather than replace the idea with their own ready-made answer. “Have you considered this situation?” is often more useful than “Here is what you should build.”
 
-**What if I’m coming alone?**
+## AI can help. Judgment is still your job.
 
-Day 2 includes time to meet people and form teams. The organizers can help you make a start, but a team placement isn’t guaranteed. The published rules will say whether solo entries are allowed and how large a team can be.
+Using AI for ideas, code, debugging, or writing must fit the event rules. The number of calls is not an achievement. Recognizing mistakes and explaining why you accepted or rejected a suggestion matters more.
 
-**Do I have to stay overnight? What about meals, equipment and accessibility?**
+Each team should provide a brief process reflection: where AI helped, where it was unreliable, and which decisions the team made. Teams that did not use AI can say so without adding a token use just to fill the form.
 
-Opening hours, meals, loans and venue arrangements will be confirmed before the event. If your plans depend on one of these, email us rather than assuming it’s included.
+Do not put classmates' personal information, unauthorized interview notes, or credentials into a tool. Technical support should work toward a usable common route, rather than making expensive personal accounts the default advantage. Tools and available credits need testing before they are announced.
 
-**Will my work be published?**
+## Pick a track, not a predetermined project
 
-Giving a demo is not consent to publish your code or personal information. Event notices will explain how photography, publication and permissions work. Sponsorship does not transfer project ownership, and partners do not receive the participant signup list.
+You can enter only the main competition or submit the same project to multiple [public tracks](tracks.md). The company sets its track’s direction and rules; your team decides what to make. Track choice and use of partner tools don’t affect main competition scores.
 
-**Who should I ask for help?**
+## Show the unfinished parts honestly
 
-At the event, start with the check-in desk or an organizer. The pre-event message will name the on-site contacts and where to find them. For eligibility, fees, travel or other questions, email [contact@refracthack.org](mailto:contact@refracthack.org). Please keep identification, personal contact details and private concerns out of public GitHub issues.
+Every team that submits a project gets a table on Day 5 in the morning. Give someone a chance to try what you’ve built, then talk through the choices you made. Explain whose problem you addressed, show what the prototype can do, describe the tests, and distinguish working features from ideas.
 
-[Check the schedule](schedule.md) · [Why we leave time for the next table](into-a-different-medium.md)
+If a demo fails, organizers should apply a published rule consistently, not award extra time to whoever argues most loudly. Judges can ask different questions without changing the basis of assessment.
+
+Useful feedback should travel home with the team. “Promising” is kind. “This test does not yet support the conclusion; try comparing these two conditions” gives someone a next step.
+
+Lightning interviews run alongside optional workshops on Day 5 in the afternoon. If you want to talk about a role or collaboration, book a 10-minute slot and bring your work. You don’t have to book one to compete. The organizers arrange follow-up only if you and the partner both want it and you consent.
+
+## Small things organizers should get right
+
+- Make it clear whom to ask for help.
+- Leave room for meals, rest, and equipment trouble. Exhaustion is not evidence of commitment.
+- Follow the event’s published consent rules for photography and project publicity. Declining photography should not prevent ordinary participation.
+- Respect project ownership. Sponsorship does not purchase code, ideas, or personal information.
+- Send fairness-related notices to every team, not just friends of the organizers.
+
+None of these makes a spectacular announcement. They matter to whether a first-time participant wants to return.
+
+## Before you travel
+
+- **What should I bring?** Bring the computer you normally use, its charger, and any adapters you need. Check the arrival guide for loan equipment, meals, and lodging.
+- **What should we check before submitting?** Make sure the demo and links work, credit outside material and tools, and remove secrets and personal information you do not have permission to share.
+- **Who can help with travel, accessibility, or on-site safety?** Email [contact@refracthack.org](mailto:contact@refracthack.org) ahead of time. On site, ask the check-in desk or event staff. Keep personal documents out of public issues.
+
+[See the full schedule](schedule.md) · [Why we leave time for teams to test each other’s work](into-a-different-medium.md) · [Operations playbook](operations.md).
